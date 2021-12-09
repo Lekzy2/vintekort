@@ -1,9 +1,15 @@
 
 .låda {
-    
+    width: 954px;
+height: 715px;
+left: 243px;
+top: 155px;
+background: #9ecbe0;
+border: 1px solid #000000;
+box-sizing: border-box;
 }
 
 
-.displayflex {
+.flexbox {
     display: flexbox;
 }
